@@ -1,0 +1,12 @@
+C:\Users\Omar\source\repos\Artlist\FFmpegWrapperLibrary\bin\Debug\netcoreapp3.1\FFmpegWrapperLibrary.deps.json
+C:\Users\Omar\source\repos\Artlist\FFmpegWrapperLibrary\bin\Debug\netcoreapp3.1\FFmpegWrapperLibrary.dll
+C:\Users\Omar\source\repos\Artlist\FFmpegWrapperLibrary\bin\Debug\netcoreapp3.1\FFmpegWrapperLibrary.pdb
+C:\Users\Omar\source\repos\Artlist\FFmpegWrapperLibrary\obj\Debug\netcoreapp3.1\FFmpegWrapperLibrary.csprojAssemblyReference.cache
+C:\Users\Omar\source\repos\Artlist\FFmpegWrapperLibrary\obj\Debug\netcoreapp3.1\FFmpegWrapperLibrary.AssemblyInfoInputs.cache
+C:\Users\Omar\source\repos\Artlist\FFmpegWrapperLibrary\obj\Debug\netcoreapp3.1\FFmpegWrapperLibrary.AssemblyInfo.cs
+C:\Users\Omar\source\repos\Artlist\FFmpegWrapperLibrary\obj\Debug\netcoreapp3.1\FFmpegWrapperLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\Artlist\FFmpegWrapperLibrary\obj\Debug\netcoreapp3.1\FFmpegWrapperLibrary.dll
+C:\Users\Omar\source\repos\Artlist\FFmpegWrapperLibrary\obj\Debug\netcoreapp3.1\FFmpegWrapperLibrary.pdb
+C:\Users\Omar\source\repos\Artlist\FFmpegWrapperLibrary\bin\Debug\netcoreapp3.1\SharedLibrary.dll
+C:\Users\Omar\source\repos\Artlist\FFmpegWrapperLibrary\bin\Debug\netcoreapp3.1\SharedLibrary.pdb
+C:\Users\Omar\source\repos\Artlist\FFmpegWrapperLibrary\obj\Debug\netcoreapp3.1\FFmpegWrapperLibrary.csproj.CopyComplete

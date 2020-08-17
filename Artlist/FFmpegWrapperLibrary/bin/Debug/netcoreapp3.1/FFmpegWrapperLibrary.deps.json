@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FFmpegWrapperLibrary/1.0.0": {
+        "dependencies": {
+          "SharedLibrary": "1.0.0"
+        },
+        "runtime": {
+          "FFmpegWrapperLibrary.dll": {}
+        }
+      },
+      "SharedLibrary/1.0.0": {
+        "runtime": {
+          "SharedLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FFmpegWrapperLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharedLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
